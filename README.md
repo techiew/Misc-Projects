@@ -1,6 +1,6 @@
 Miscellaneous projects from throughout the years, most of these are hobby projects.
 
-**Most libraries that I used can be found here:**
+Most libraries that I used can be found here:
 https://drive.google.com/drive/folders/0B_DzLWVoPPGleldKQ1paNC1JdG8
 Preferably download the newest versions of these libraries from official sources if you can find them.
 
