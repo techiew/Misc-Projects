@@ -10,7 +10,7 @@ Preferably download the newest versions of these libraries from official sources
 
 Attraction: https://sketchycode.blogspot.com/2019/01/this-is-simulation-of-gravity-between.html
 
-Rain: https://sketchycode.blogspot.com/2019/01/rain-simulation-c.html
+Rain: https://pastacode.tumblr.com/post/190681189396/this-is-a-rain-simulation-i-made-a-while-back-in
 
 Fractal tree: https://sketchycode.blogspot.com/2019/01/fractal-tree-c.html
 
