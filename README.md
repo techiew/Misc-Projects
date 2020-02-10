@@ -1,4 +1,4 @@
-# Miscellaneous projects from throughout the years, most of these are hobby projects.
+###### Miscellaneous projects from throughout the years, most of these are hobby projects.
 
 Libraries that I used can be found here:
 https://drive.google.com/drive/folders/0B_DzLWVoPPGleldKQ1paNC1JdG8
