@@ -20,3 +20,23 @@ C\+\+/Rain/Release/Rain.pdb
 C\+\+/Rain/Release/Rain.ipdb
 
 C\+\+/Rain/Release/Rain.iobj
+
+C\+\+/3DOpenGL/Release/3DOpenGL.pdb
+
+*.iobj
+
+*.ipdb
+
+*.obj
+
+C\+\+/3DOpenGL/3DOpenGL/Release/3DOpenGL.tlog/
+
+C\+\+/3DOpenGL/3DOpenGL/Release/3DOpenGL.log
+
+*.db
+
+C\+\+/3DOpenGL/.vs/3DOpenGL/v14/
+
+*.ipch
+
+C\+\+/3DOpenGL/.vs/3DOpenGL/v15/
