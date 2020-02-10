@@ -12,6 +12,6 @@ Fractal tree: https://sketchycode.blogspot.com/2019/01/fractal-tree-c.html
 
 Snake: https://pastacode.tumblr.com/post/190654001441/a-snake-game-i-made-a-long-time-ago-in-c-uses
 
-Simple 3D OpenGL: https://pastacode.tumblr.com/post/190757592986/a-simple-3d-opengl-program-made-in-c-showing-a
+3D OpenGL: https://pastacode.tumblr.com/post/190757592986/a-simple-3d-opengl-program-made-in-c-showing-a
 
 #### Processing projects:
