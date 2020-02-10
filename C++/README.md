@@ -1,7 +1,9 @@
 ## C++
 
-Libraries that I used for these can be found here, not all of the projects use the same libraries:
+Libraries that I used for these can be found here:
 https://drive.google.com/drive/folders/0B_DzLWVoPPGleldKQ1paNC1JdG8
+
+Not all of the projects use the same libraries, if any.
 
 Preferably download the newest versions of these libraries from official sources if you can. I do not in any way take credit for any of these libraries.
 
