@@ -4,11 +4,11 @@ Miscellaneous projects from throughout the years, most of these are hobby projec
 
 #### C++ projects:
 
-Attraction: https://sketchycode.blogspot.com/2019/01/this-is-simulation-of-gravity-between.html
+Attraction: https://sketchycode.blogspot.com/2019/01/this-is-simulation-of-gravity-between.html - To be updated, moving to tumblr
 
 Rain: https://pastacode.tumblr.com/post/190681189396/this-is-a-rain-simulation-i-made-a-while-back-in
 
-Fractal tree: https://sketchycode.blogspot.com/2019/01/fractal-tree-c.html
+Fractal tree: https://sketchycode.blogspot.com/2019/01/fractal-tree-c.html - To be updated, moving to tumblr
 
 Snake: https://pastacode.tumblr.com/post/190654001441/a-snake-game-i-made-a-long-time-ago-in-c-uses
 
