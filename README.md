@@ -7,7 +7,7 @@ Preferably download the newest versions of these libraries from official sources
 
 I do not in any way take credit for any of these libraries.
 
-### Plug'n'play
+**Plug'n'play**
 
 The libraries used for each project are included next to the project files and the Visual Studio solution is set up to target the include and library files that it needs from those folders. I set it up this way so that you should be able to open the .sln file and run it without any extra configuration.
 
