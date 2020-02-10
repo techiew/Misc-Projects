@@ -27,6 +27,7 @@ Snake: https://pastacode.tumblr.com/post/190654001441/a-snake-game-i-made-a-long
 Simple 3D OpenGL: https://sketchycode.blogspot.com/2019/01/simple-3d-opengl-program-c.html
 
 
+
 ## Library sources, all credit to the original creators:
 
 SDL2: https://www.libsdl.org/index.php
