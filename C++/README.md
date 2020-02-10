@@ -3,9 +3,9 @@
 Libraries that I used for these can be found here:
 https://drive.google.com/drive/folders/0B_DzLWVoPPGleldKQ1paNC1JdG8
 
-Not all of the projects use the same libraries, if any.
-
 Preferably download the newest versions of these libraries from official sources if you can. I do not in any way take credit for any of these libraries.
+
+Not all of the projects use the same libraries, if any.
 
 ### Plug'n'play
 The projects are set up so that you should be able to build them without having to do any extra configuration. The libraries used for each project are included next to the project files and the Visual Studio .sln is already set up to target the include and library files that it needs from those folders.
