@@ -1,6 +1,6 @@
 Miscellaneous projects from throughout the years, most of these are hobby projects.
 
-### Blog posts:
+**Blog posts:**
 
 #### C++ projects:
 
