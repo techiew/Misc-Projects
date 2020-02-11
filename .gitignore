@@ -36,3 +36,5 @@ C\+\+/Snake/Release/Snake.exe
 C\+\+/3DOpenGL/Release/3DOpenGL.exe
 
 C\+\+/Rain/Release/Rain.exe
+
+*.ipch
