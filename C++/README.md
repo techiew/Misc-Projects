@@ -5,9 +5,7 @@ Libraries that I used and release versions for each program can be found here:
 https://github.com/techiew/Misc-Projects/releases
 
 
-Preferably download the newest versions of these libraries from official sources (linked below) if you can. I do not in any way take credit for any of these libraries.
-
-Not all of the projects use the same libraries, if any.
+Preferably download the newest versions of these libraries from official sources (linked below) if you can. I do not in any way take credit for any of these libraries. Not all of the projects use the same libraries, if any.
 
 ### Plug'n'play
 The projects are set up so that you should be able to build them without having to do any extra configuration. Libraries used for all projects are included in the "Libraries" folder and the Visual Studio solutions (.sln) are already set up to target the include and library files that it needs from that folder. Also, the .dll files that are needed in runtime for the .exe's are included inside the "Release" folder for each project. If you get include or .dll loading errors regardless, please check that you're compiling with the correct configuration, most of the projects should be set up for compiling in "Release" combined with "x86". If you still have issues then follow the steps below.
