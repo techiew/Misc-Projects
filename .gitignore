@@ -1,8 +1,4 @@
 
-C\+\+/Snake/.vs/Snake/v14/
-
-C\+\+/Snake/.vs/Snake/v15/
-
 C\+\+/Snake/Release/Snake.iobj
 
 C\+\+/Snake/Release/Snake.ipdb
@@ -29,22 +25,14 @@ C\+\+/3DOpenGL/Release/3DOpenGL.pdb
 
 *.obj
 
+*.VC.db
+
 C\+\+/3DOpenGL/3DOpenGL/Release/3DOpenGL.tlog/
 
 C\+\+/3DOpenGL/3DOpenGL/Release/3DOpenGL.log
 
-*.db
-
-C\+\+/3DOpenGL/.vs/3DOpenGL/v14/
-
-*.ipch
-
-C\+\+/3DOpenGL/.vs/3DOpenGL/v15/
-
 C\+\+/Snake/Release/Snake.exe
 
 C\+\+/3DOpenGL/Release/3DOpenGL.exe
-
-C\+\+/Rain/.vs/Rain/v15/
 
 C\+\+/Rain/Release/Rain.exe
