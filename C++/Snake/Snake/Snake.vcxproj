@@ -73,8 +73,8 @@
     <LibraryPath>C:\sdl2\lib\win32;C:\sdl2_ttf\lib\win32;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
-    <IncludePath>$(VC_IncludePath);$(WindowsSDK_IncludePath);$(ProjectDir)Libraries\SDL2_ttf\include;$(ProjectDir)Libraries\SDL2\include</IncludePath>
-    <LibraryPath>$(projectDir)Libraries\SDL2\lib\win32;$(projectDir)Libraries\SDL2_ttf\lib\win32;$(LibraryPath)</LibraryPath>
+    <IncludePath>$(VC_IncludePath);$(WindowsSDK_IncludePath);$(SolutionDir)..\Libraries\SDL2_ttf\include;$(SolutionDir)..\Libraries\SDL2\include</IncludePath>
+    <LibraryPath>$(SolutionDir)..\Libraries\SDL2\lib\win32;$(SolutionDir)..\Libraries\SDL2_ttf\lib\win32;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>

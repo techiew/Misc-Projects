@@ -1,0 +1,10 @@
+﻿  SDL2_framerate.c
+  SDL2_gfxPrimitives.c
+  SDL2_rotozoom.c
+  SDL2_imageFilter.c
+     Creating library Win32\Release\SDL2_gfx.lib and object Win32\Release\SDL2_gfx.exp
+  Generating code
+  All 155 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SDL2_gfx.vcxproj -> C:\SDL2_gfx-1.0.1\SDL2_gfx-1.0.1\Win32\Release\SDL2_gfx.dll
+  SDL2_gfx.vcxproj -> Win32\Release\SDL2_gfx.pdb (Full PDB)
