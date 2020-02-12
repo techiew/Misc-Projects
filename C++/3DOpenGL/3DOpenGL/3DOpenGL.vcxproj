@@ -76,6 +76,10 @@
     <IncludePath>$(SolutionDir)..\Libraries\glm-0.9.8.5\glm\glm\gtx;$(SolutionDir)..\Libraries\glew-2.1.0-win32\glew-2.1.0\include;$(SolutionDir)..\Libraries\glm-0.9.8.5\glm\glm;$(SolutionDir)..\Libraries\SDL2\include;$(IncludePath)</IncludePath>
     <LibraryPath>$(SolutionDir)..\Libraries\glew-2.1.0-win32\glew-2.1.0\lib\Release\Win32;$(SolutionDir)..\Libraries\SDL2\lib\win32;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <IncludePath>$(SolutionDir)..\Libraries\glm-0.9.8.5\glm\glm\gtx;$(SolutionDir)..\Libraries\glew-2.1.0-win32\glew-2.1.0\include;$(SolutionDir)..\Libraries\glm-0.9.8.5\glm\glm;$(SolutionDir)..\Libraries\SDL2\include;$(IncludePath)</IncludePath>
+    <LibraryPath>$(SolutionDir)..\Libraries\glew-2.1.0-win32\glew-2.1.0\lib\Release\Win32;$(SolutionDir)..\Libraries\SDL2\lib\win32;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
