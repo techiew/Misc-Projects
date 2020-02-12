@@ -38,3 +38,9 @@ C\+\+/3DOpenGL/Release/3DOpenGL.exe
 C\+\+/Rain/Release/Rain.exe
 
 *.ipch
+
+C\+\+/3DOpenGL/.vs/3DOpenGL/v15/.suo
+
+*.opendb
+
+C\+\+/3DOpenGL/3DOpenGL/Release/
