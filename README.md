@@ -1,8 +1,7 @@
 Miscellaneous projects from throughout the years, most of these are hobby projects.
 
-Release versions for each program can be found here:
+Release versions for each program can be found [here.](https://github.com/techiew/Misc-Projects/releases)
 
-https://github.com/techiew/Misc-Projects/releases
 
 ## Blog posts:
 
