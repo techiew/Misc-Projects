@@ -1,8 +1,6 @@
 ## C++
 
-Libraries that I used and release versions for each program can be found here:
-
-https://github.com/techiew/Misc-Projects/releases
+Libraries that I used and release versions for each program can be found [here.](https://github.com/techiew/Misc-Projects/releases)
 
 
 Preferably download the newest versions of these libraries from official sources (linked below) if you can. I do not in any way take credit for any of these libraries. 
