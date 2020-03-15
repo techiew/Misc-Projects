@@ -1,6 +1,6 @@
-Miscellaneous projects from throughout the years, most of these are hobby projects.
+Miscellaneous projects from throughout the years, these are all are hobby projects.
 
-Release versions for each program can be found [here.](https://github.com/techiew/Misc-Projects/releases)
+Runnable .exes for each program can be found [here.](https://github.com/techiew/Misc-Projects/releases)
 
 
 ## Blog posts:
