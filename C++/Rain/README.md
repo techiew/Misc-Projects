@@ -1,3 +1,4 @@
-A simulation of falling water droplets colliding with user-made obstacles.
+## Rain
+![Preview of Rain](https://github.com/techiew/Misc-Projects/blob/master/Previews/preview_rain.gif)
 
-https://pastacode.tumblr.com/post/190681189396/this-is-a-rain-simulation-i-made-a-while-back-in
+A simulation of falling water droplets colliding with user-made obstacles.
