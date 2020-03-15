@@ -15,7 +15,7 @@ Attraction: https://sketchycode.blogspot.com/2019/01/this-is-simulation-of-gravi
 
 Rain: https://pastacode.tumblr.com/post/190681189396/this-is-a-rain-simulation-i-made-a-while-back-in
 
-Fractal tree: https://sketchycode.blogspot.com/2019/01/fractal-tree-c.html - To be updated, moving to tumblr
+Fractal tree: https://pastacode.tumblr.com/post/612668845265764352/this-program-generates-a-random-and-colorful-tree
 
 Snake: https://pastacode.tumblr.com/post/190654001441/a-snake-game-i-made-a-long-time-ago-in-c-uses
 
