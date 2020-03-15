@@ -1,13 +1,17 @@
-Miscellaneous projects from throughout the years, most of these are hobby projects.
+## Misc-Projects
+Miscellaneous projects from throughout the years, all of these are hobby projects.
 
-Release versions for each program can be found [here.](https://github.com/techiew/Misc-Projects/releases)
+Runnable .exes for each program can be found [here.](https://github.com/techiew/Misc-Projects/releases)
 
+&nbsp;
 
 ## Blog posts:
 
 #### C++ projects:
 
 Attraction: https://sketchycode.blogspot.com/2019/01/this-is-simulation-of-gravity-between.html - To be updated, moving to tumblr
+
+2D Shooter: https://pastacode.tumblr.com/post/612617285922865152/an-old-2d-shooter-game-i-made-in-c-and-using
 
 Rain: https://pastacode.tumblr.com/post/190681189396/this-is-a-rain-simulation-i-made-a-while-back-in
 
