@@ -6,7 +6,7 @@ Libraries that I used and release versions for each program can be found [here.]
 Preferably download the newest versions of these libraries from official sources (linked below) if you can. I do not in any way take credit for any of these libraries. 
 
 ### How to compile
-The projects are set up so that you need to do as little configuration as possible to get them running, one thing you need to do yourself for most of these projects is to **set the build configuration to "Release" combined with "x86"**, by that I mean those 2 boxes next to the play button in Visual Studio. Some projects might differ in settings.
+**You need to set the build configuration to "Release" combined with "x86"** for most of these projects to get them running. Other than most projects should work out of the box. Read the section below if you get errors during compilation.
 
 &nbsp;
 
