@@ -1,4 +1,4 @@
-## C++
+## C++ Projects
 
 Release versions for each program can be found [here.](https://github.com/techiew/Misc-Projects/releases)
 
