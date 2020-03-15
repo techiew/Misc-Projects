@@ -2,6 +2,8 @@
 
 Runnable .exes for each program can be found [here.](https://github.com/techiew/Misc-Projects/releases)
 
+&nbsp;
+
 ### How to compile
 **You need to set the build configuration to "Release" combined with "x86" for most of these projects to get them running.** Other than most projects should work out of the box. Read the section below if you get errors during compilation.
 
