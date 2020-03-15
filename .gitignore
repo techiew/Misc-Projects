@@ -64,3 +64,21 @@ C\+\+/2DShooter/.vs/2DShooter/v14/.suo
 C\+\+/2DShooter/.vs/2DShooter/v15/.suo
 
 *.lastcodeanalysissucceeded
+
+C\+\+/Fractal_tree/.vs/Fractal_tree/v14/.suo
+
+C\+\+/Fractal_tree/.vs/Fractal_tree/v15/.suo
+
+C\+\+/Fractal_tree/Fractal_tree/Debug/Fractal_tree.tlog/
+
+C\+\+/Fractal_tree/Fractal_tree/Debug/
+
+C\+\+/Fractal_tree/Fractal_tree/Release/Fractal_tree.Build.CppClean.log
+
+C\+\+/Fractal_tree/Fractal_tree/Release/Fractal_tree.log
+
+*.tlog
+
+*.pdb
+
+C\+\+/Fractal_tree/Release/Fractal_tree.exe
