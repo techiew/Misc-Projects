@@ -9,7 +9,7 @@ Runnable .exes for each program can be found [here.](https://github.com/techiew/
 
 #### C++ projects:
 
-Attraction: https://sketchycode.blogspot.com/2019/01/this-is-simulation-of-gravity-between.html - To be updated, moving to tumblr
+Attraction: https://pastacode.tumblr.com/post/612679607031939072/a-simulation-that-simulates-gravitational
 
 2D Shooter: https://pastacode.tumblr.com/post/612617285922865152/an-old-2d-shooter-game-i-made-in-c-and-using
 
