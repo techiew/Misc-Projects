@@ -3,6 +3,7 @@ Miscellaneous projects from throughout the years, all of these are hobby project
 
 Runnable .exes for each program can be found [here.](https://github.com/techiew/Misc-Projects/releases)
 
+&nbsp;
 
 ## Blog posts:
 
