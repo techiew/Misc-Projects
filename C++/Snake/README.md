@@ -1,3 +1,4 @@
-A simple Snake game.
+## Snake
+![Preview of Snake](https://github.com/techiew/Misc-Projects/blob/master/Previews/preview_snake.gif)
 
-https://pastacode.tumblr.com/post/190654001441/a-snake-game-i-made-a-long-time-ago-in-c-uses
+A simple Snake game.
