@@ -1,7 +1,5 @@
 ## Misc-Projects
-Miscellaneous projects from throughout the years, all of these are hobby projects. 
-
-Go into the folder for a project to see a .gif preview.
+Miscellaneous projects from throughout the years, all of these are hobby projects. Go into the folder for a project to see a .gif preview.
 
 Runnable .exes for each program can be found [here.](https://github.com/techiew/Misc-Projects/releases)
 
