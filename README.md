@@ -1,7 +1,31 @@
 ## Misc-Projects
-Miscellaneous projects from throughout the years, all of these are hobby projects. Go into the folder for a project to see a .gif preview.
+Miscellaneous projects from throughout the years, all of these are hobby projects.
 
 Runnable .exes for each program can be found [here.](https://github.com/techiew/Misc-Projects/releases)
+
+## Fractal Tree
+
+![Preview of Fractal Tree](https://github.com/techiew/Misc-Projects/blob/master/Previews/preview_fractaltree.gif)
+
+## Attraction
+
+![Preview of Attraction](https://github.com/techiew/Misc-Projects/blob/master/Previews/preview_attraction.gif)
+
+## 2D Shooter
+
+![Preview of 2D Shooter](https://github.com/techiew/Misc-Projects/blob/master/Previews/preview_2dshooter.gif)
+
+## Rain
+
+![Preview of Rain](https://github.com/techiew/Misc-Projects/blob/master/Previews/preview_rain.gif)
+
+## 3D OpenGL
+
+![Preview of 3D OpenGL](https://github.com/techiew/Misc-Projects/blob/master/Previews/preview_3dopengl.gif)
+
+## Snake
+
+![Preview of Snake](https://github.com/techiew/Misc-Projects/blob/master/Previews/preview_snake.gif)
 
 &nbsp;
 
