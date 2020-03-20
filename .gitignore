@@ -92,3 +92,9 @@ C\+\+/Attraction/Release/Attraction and repulsion.exe
 C\+\+/Attraction/Release/Attraction.exe
 
 C\+\+/Attraction/Attraction/Release/Attraction.log
+
+*.sbr
+
+*.bsc
+
+*.exe
