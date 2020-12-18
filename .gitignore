@@ -1,23 +1,23 @@
 
-C\+\+/Snake/Release/Snake.iobj
+Projects/Snake/Release/Snake.iobj
 
-C\+\+/Snake/Release/Snake.ipdb
+Projects/Snake/Release/Snake.ipdb
 
-C\+\+/Snake/Release/Snake.pdb
+Projects/Snake/Release/Snake.pdb
 
-C\+\+/Snake/Snake/Release/
+Projects/Snake/Snake/Release/
 
-C\+\+/Rain/Rain.VC.db
+Projects/Rain/Rain.VC.db
 
-C\+\+/Rain/Rain/Release/
+Projects/Rain/Rain/Release/
 
-C\+\+/Rain/Release/Rain.pdb
+Projects/Rain/Release/Rain.pdb
 
-C\+\+/Rain/Release/Rain.ipdb
+Projects/Rain/Release/Rain.ipdb
 
-C\+\+/Rain/Release/Rain.iobj
+Projects/Rain/Release/Rain.iobj
 
-C\+\+/3DOpenGL/Release/3DOpenGL.pdb
+Projects/3DOpenGL/Release/3DOpenGL.pdb
 
 *.iobj
 
@@ -27,71 +27,71 @@ C\+\+/3DOpenGL/Release/3DOpenGL.pdb
 
 *.VC.db
 
-C\+\+/3DOpenGL/3DOpenGL/Release/3DOpenGL.tlog/
+Projects/3DOpenGL/3DOpenGL/Release/3DOpenGL.tlog/
 
-C\+\+/3DOpenGL/3DOpenGL/Release/3DOpenGL.log
+Projects/3DOpenGL/3DOpenGL/Release/3DOpenGL.log
 
-C\+\+/Snake/Release/Snake.exe
+Projects/Snake/Release/Snake.exe
 
-C\+\+/3DOpenGL/Release/3DOpenGL.exe
+Projects/3DOpenGL/Release/3DOpenGL.exe
 
-C\+\+/Rain/Release/Rain.exe
+Projects/Rain/Release/Rain.exe
 
 *.ipch
 
-C\+\+/3DOpenGL/.vs/3DOpenGL/v15/.suo
+Projects/3DOpenGL/.vs/3DOpenGL/v15/.suo
 
 *.opendb
 
-C\+\+/3DOpenGL/3DOpenGL/Release/
+Projects/3DOpenGL/3DOpenGL/Release/
 
-C\+\+/3DOpenGL/.vs/3DOpenGL/v14/.suo
+Projects/3DOpenGL/.vs/3DOpenGL/v14/.suo
 
-C\+\+/Rain/.vs/Rain/v15/
+Projects/Rain/.vs/Rain/v15/
 
-C\+\+/Snake/.vs/Snake/v15/.suo
+Projects/Snake/.vs/Snake/v15/.suo
 
-C\+\+/3DOpenGL/3DOpenGL/x64/Release/
+Projects/3DOpenGL/3DOpenGL/x64/Release/
 
-C\+\+/2DShooter/2DShooter/Debug/
+Projects/2DShooter/2DShooter/Debug/
 
-C\+\+/2DShooter/2DShooter/Release/2DShooter.log
+Projects/2DShooter/2DShooter/Release/2DShooter.log
 
-C\+\+/2DShooter/2DShooter/Release/2DShooter.Build.CppClean.log
+Projects/2DShooter/2DShooter/Release/2DShooter.Build.CppClean.log
 
-C\+\+/2DShooter/.vs/2DShooter/v14/.suo
+Projects/2DShooter/.vs/2DShooter/v14/.suo
 
-C\+\+/2DShooter/.vs/2DShooter/v15/.suo
+Projects/2DShooter/.vs/2DShooter/v15/.suo
 
 *.lastcodeanalysissucceeded
 
-C\+\+/Fractal_tree/.vs/Fractal_tree/v14/.suo
+Projects/Fractal_tree/.vs/Fractal_tree/v14/.suo
 
-C\+\+/Fractal_tree/.vs/Fractal_tree/v15/.suo
+Projects/Fractal_tree/.vs/Fractal_tree/v15/.suo
 
-C\+\+/Fractal_tree/Fractal_tree/Debug/Fractal_tree.tlog/
+Projects/Fractal_tree/Fractal_tree/Debug/Fractal_tree.tlog/
 
-C\+\+/Fractal_tree/Fractal_tree/Debug/
+Projects/Fractal_tree/Fractal_tree/Debug/
 
-C\+\+/Fractal_tree/Fractal_tree/Release/Fractal_tree.Build.CppClean.log
+Projects/Fractal_tree/Fractal_tree/Release/Fractal_tree.Build.CppClean.log
 
-C\+\+/Fractal_tree/Fractal_tree/Release/Fractal_tree.log
+Projects/Fractal_tree/Fractal_tree/Release/Fractal_tree.log
 
 *.tlog
 
 *.pdb
 
-C\+\+/Fractal_tree/Release/Fractal_tree.exe
+Projects/Fractal_tree/Release/Fractal_tree.exe
 
-C\+\+/Attraction/.vs/Attraction/v15/.suo
+Projects/Attraction/.vs/Attraction/v15/.suo
 
-C\+\+/Attraction/Debug/
+Projects/Attraction/Debug/
 
-C\+\+/Attraction/Release/Attraction and repulsion.exe
+Projects/Attraction/Release/Attraction and repulsion.exe
 
-C\+\+/Attraction/Release/Attraction.exe
+Projects/Attraction/Release/Attraction.exe
 
-C\+\+/Attraction/Attraction/Release/Attraction.log
+Projects/Attraction/Attraction/Release/Attraction.log
 
 *.sbr
 
