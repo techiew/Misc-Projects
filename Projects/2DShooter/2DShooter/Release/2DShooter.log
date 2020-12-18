@@ -1,0 +1,118 @@
+﻿  collision.cpp
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\tile.h(25): warning C4091: 'static ': ignored on left of 'Tile::tileType' when no variable is declared
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\tile.h(32): warning C4091: 'static ': ignored on left of 'Tile::tileRotation' when no variable is declared
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\collision.cpp(12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\collision.cpp(13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\collision.cpp(56): warning C4018: '<': signed/unsigned mismatch
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\collision.cpp(100): warning C4018: '<': signed/unsigned mismatch
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\collision.cpp(102): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\collision.cpp(103): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  enemy.cpp
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\enemy.cpp(35): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\enemy.cpp(36): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\enemy.cpp(37): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\enemy.cpp(39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\enemy.cpp(44): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\enemy.cpp(45): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\enemy.cpp(46): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  enemymanager.cpp
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\tile.h(25): warning C4091: 'static ': ignored on left of 'Tile::tileType' when no variable is declared
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\tile.h(32): warning C4091: 'static ': ignored on left of 'Tile::tileRotation' when no variable is declared
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\enemymanager.cpp(22): warning C4018: '<': signed/unsigned mismatch
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\enemymanager.cpp(24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\enemymanager.cpp(25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\enemymanager.cpp(49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\enemymanager.cpp(50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\enemymanager.cpp(54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\enemymanager.cpp(63): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\enemymanager.cpp(92): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\enemymanager.cpp(93): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\enemymanager.cpp(108): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\enemymanager.cpp(109): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\enemymanager.cpp(139): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\enemymanager.cpp(140): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\enemymanager.cpp(148): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\enemymanager.cpp(150): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\enemymanager.cpp(158): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\enemymanager.cpp(159): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\enemymanager.cpp(161): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\enemymanager.cpp(162): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\enemymanager.cpp(166): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  graphics.cpp
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\tile.h(25): warning C4091: 'static ': ignored on left of 'Tile::tileType' when no variable is declared
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\tile.h(32): warning C4091: 'static ': ignored on left of 'Tile::tileRotation' when no variable is declared
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\graphics.cpp(52): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\graphics.cpp(53): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\graphics.cpp(55): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\graphics.cpp(56): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\graphics.cpp(57): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\graphics.cpp(58): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\graphics.cpp(61): warning C4018: '<': signed/unsigned mismatch
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\graphics.cpp(83): warning C4018: '<': signed/unsigned mismatch
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\graphics.cpp(105): warning C4018: '<': signed/unsigned mismatch
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\graphics.cpp(113): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\graphics.cpp(129): warning C4018: '<': signed/unsigned mismatch
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\graphics.cpp(138): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\graphics.cpp(144): warning C4018: '<': signed/unsigned mismatch
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\graphics.cpp(153): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\graphics.cpp(175): warning C4018: '<': signed/unsigned mismatch
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\graphics.cpp(180): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\graphics.cpp(181): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\graphics.cpp(184): warning C4244: 'argument': conversion from 'double' to 'Sint16', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\graphics.cpp(186): warning C4244: 'argument': conversion from 'double' to 'Sint16', possible loss of data
+  map.cpp
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\tile.h(25): warning C4091: 'static ': ignored on left of 'Tile::tileType' when no variable is declared
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\tile.h(32): warning C4091: 'static ': ignored on left of 'Tile::tileRotation' when no variable is declared
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\map.cpp(33): warning C4018: '<': signed/unsigned mismatch
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\map.cpp(42): warning C4018: '<': signed/unsigned mismatch
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\map.cpp(51): warning C4018: '<': signed/unsigned mismatch
+  projectile.cpp
+  camera2d.cpp
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\tile.h(25): warning C4091: 'static ': ignored on left of 'Tile::tileType' when no variable is declared
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\tile.h(32): warning C4091: 'static ': ignored on left of 'Tile::tileRotation' when no variable is declared
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\camera2d.cpp(35): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\camera2d.cpp(36): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\camera2d.cpp(37): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  input.cpp
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\tile.h(25): warning C4091: 'static ': ignored on left of 'Tile::tileType' when no variable is declared
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\tile.h(32): warning C4091: 'static ': ignored on left of 'Tile::tileRotation' when no variable is declared
+  fpsmanager.cpp
+  rand.cpp
+  room.cpp
+  textures.cpp
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\tile.h(25): warning C4091: 'static ': ignored on left of 'Tile::tileType' when no variable is declared
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\tile.h(32): warning C4091: 'static ': ignored on left of 'Tile::tileRotation' when no variable is declared
+  tile.cpp
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\tile.h(25): warning C4091: 'static ': ignored on left of 'Tile::tileType' when no variable is declared
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\tile.h(32): warning C4091: 'static ': ignored on left of 'Tile::tileRotation' when no variable is declared
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\tile.cpp(11): warning C4018: '<': signed/unsigned mismatch
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\tile.cpp(16): warning C4018: '<': signed/unsigned mismatch
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\tile.cpp(27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\tile.cpp(28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\tile.cpp(33): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\tile.cpp(34): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\tile.h(25): warning C4091: 'static ': ignored on left of 'Tile::tileType' when no variable is declared
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\tile.h(32): warning C4091: 'static ': ignored on left of 'Tile::tileRotation' when no variable is declared
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\main.cpp(53): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  physics.cpp
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\tile.h(25): warning C4091: 'static ': ignored on left of 'Tile::tileType' when no variable is declared
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\tile.h(32): warning C4091: 'static ': ignored on left of 'Tile::tileRotation' when no variable is declared
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\physics.cpp(18): warning C4018: '<': signed/unsigned mismatch
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\physics.cpp(33): warning C4018: '<': signed/unsigned mismatch
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\physics.cpp(34): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\physics.cpp(35): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\physics.cpp(36): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\physics.cpp(37): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  player.cpp
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\tile.h(25): warning C4091: 'static ': ignored on left of 'Tile::tileType' when no variable is declared
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\tile.h(32): warning C4091: 'static ': ignored on left of 'Tile::tileRotation' when no variable is declared
+  vector2.cpp
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\vector2.cpp(30): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\projects\2dshooter\2dshooter\vector2.cpp(31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  1218 of 1231 functions (98.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  2DShooter.vcxproj -> C:\Users\Marius\Documents\Programming\Github repositories\Misc-Projects\Projects\2DShooter\Release\2DShooter.exe

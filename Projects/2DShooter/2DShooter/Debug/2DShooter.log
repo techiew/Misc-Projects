@@ -1,0 +1,31 @@
+﻿  2ds_graphics.cpp
+c:\users\marius\documents\programming\visual studio 2015\projects\2dshooter\2dshooter\2ds_tile.h(29): warning C4091: 'static ': ignored on left of 'Tile::tileType' when no variable is declared
+c:\users\marius\documents\programming\visual studio 2015\projects\2dshooter\2dshooter\2ds_tile.h(36): warning C4091: 'static ': ignored on left of 'Tile::tileRotation' when no variable is declared
+c:\users\marius\documents\programming\visual studio 2015\projects\2dshooter\2dshooter\2ds_graphics.cpp(59): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\marius\documents\programming\visual studio 2015\projects\2dshooter\2dshooter\2ds_graphics.cpp(60): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\marius\documents\programming\visual studio 2015\projects\2dshooter\2dshooter\2ds_graphics.cpp(62): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\marius\documents\programming\visual studio 2015\projects\2dshooter\2dshooter\2ds_graphics.cpp(63): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\marius\documents\programming\visual studio 2015\projects\2dshooter\2dshooter\2ds_graphics.cpp(64): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\marius\documents\programming\visual studio 2015\projects\2dshooter\2dshooter\2ds_graphics.cpp(65): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\marius\documents\programming\visual studio 2015\projects\2dshooter\2dshooter\2ds_graphics.cpp(72): warning C4018: '<': signed/unsigned mismatch
+c:\users\marius\documents\programming\visual studio 2015\projects\2dshooter\2dshooter\2ds_graphics.cpp(94): warning C4018: '<': signed/unsigned mismatch
+c:\users\marius\documents\programming\visual studio 2015\projects\2dshooter\2dshooter\2ds_graphics.cpp(116): warning C4018: '<': signed/unsigned mismatch
+c:\users\marius\documents\programming\visual studio 2015\projects\2dshooter\2dshooter\2ds_graphics.cpp(124): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\marius\documents\programming\visual studio 2015\projects\2dshooter\2dshooter\2ds_graphics.cpp(152): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\marius\documents\programming\visual studio 2015\projects\2dshooter\2dshooter\2ds_graphics.cpp(153): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\marius\documents\programming\visual studio 2015\projects\2dshooter\2dshooter\2ds_graphics.cpp(177): warning C4018: '<': signed/unsigned mismatch
+c:\users\marius\documents\programming\visual studio 2015\projects\2dshooter\2dshooter\2ds_graphics.cpp(186): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\marius\documents\programming\visual studio 2015\projects\2dshooter\2dshooter\2ds_graphics.cpp(192): warning C4018: '<': signed/unsigned mismatch
+c:\users\marius\documents\programming\visual studio 2015\projects\2dshooter\2dshooter\2ds_graphics.cpp(201): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\marius\documents\programming\visual studio 2015\projects\2dshooter\2dshooter\2ds_graphics.cpp(206): warning C4018: '<': signed/unsigned mismatch
+c:\users\marius\documents\programming\visual studio 2015\projects\2dshooter\2dshooter\2ds_graphics.cpp(207): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\marius\documents\programming\visual studio 2015\projects\2dshooter\2dshooter\2ds_graphics.cpp(208): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\marius\documents\programming\visual studio 2015\projects\2dshooter\2dshooter\2ds_graphics.cpp(212): warning C4244: 'argument': conversion from 'double' to 'Sint16', possible loss of data
+c:\users\marius\documents\programming\visual studio 2015\projects\2dshooter\2dshooter\2ds_graphics.cpp(215): warning C4244: 'argument': conversion from 'double' to 'Sint16', possible loss of data
+c:\users\marius\documents\programming\visual studio 2015\projects\2dshooter\2dshooter\2ds_graphics.cpp(239): warning C4018: '<': signed/unsigned mismatch
+c:\users\marius\documents\programming\visual studio 2015\projects\2dshooter\2dshooter\2ds_graphics.cpp(244): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\marius\documents\programming\visual studio 2015\projects\2dshooter\2dshooter\2ds_graphics.cpp(245): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\marius\documents\programming\visual studio 2015\projects\2dshooter\2dshooter\2ds_graphics.cpp(248): warning C4244: 'argument': conversion from 'double' to 'Sint16', possible loss of data
+c:\users\marius\documents\programming\visual studio 2015\projects\2dshooter\2dshooter\2ds_graphics.cpp(250): warning C4244: 'argument': conversion from 'double' to 'Sint16', possible loss of data
+  2DShooter.vcxproj -> C:\Users\Marius\Documents\Programming\Visual Studio 2015\Projects\2DShooter\Debug\2DShooter.exe
+  2DShooter.vcxproj -> C:\Users\Marius\Documents\Programming\Visual Studio 2015\Projects\2DShooter\Debug\2DShooter.pdb (Partial PDB)

@@ -1,0 +1,21 @@
+﻿  main.cpp
+c:\users\marius\documents\programming\github repositories\misc-projects\c++\attraction\attraction\main.cpp(22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\c++\attraction\attraction\main.cpp(23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\c++\attraction\attraction\main.cpp(24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\c++\attraction\attraction\main.cpp(25): warning C4244: 'argument': conversion from '_Ty2' to 'Sint16', possible loss of data
+          with
+          [
+              _Ty2=double
+          ]
+c:\users\marius\documents\programming\github repositories\misc-projects\c++\attraction\attraction\main.cpp(25): warning C4244: 'argument': conversion from '_Ty1' to 'Sint16', possible loss of data
+          with
+          [
+              _Ty1=double
+          ]
+c:\users\marius\documents\programming\github repositories\misc-projects\c++\attraction\attraction\main.cpp(81): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  2 of 119 functions ( 1.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Attraction.vcxproj -> C:\Users\Marius\Documents\Programming\Github repositories\Misc-Projects\C++\Attraction\Release\Attraction.exe

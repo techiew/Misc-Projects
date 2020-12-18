@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\marius\documents\programming\github repositories\misc-projects\c++\rain\rain\main.cpp(24): warning C4018: '<': signed/unsigned mismatch
+c:\users\marius\documents\programming\github repositories\misc-projects\c++\rain\rain\main.cpp(77): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\marius\documents\programming\github repositories\misc-projects\c++\rain\rain\main.cpp(116): warning C4018: '<': signed/unsigned mismatch
+c:\users\marius\documents\programming\github repositories\misc-projects\c++\rain\rain\main.cpp(152): warning C4018: '<': signed/unsigned mismatch
+c:\users\marius\documents\programming\github repositories\misc-projects\c++\rain\rain\main.cpp(161): warning C4018: '<': signed/unsigned mismatch
+  vector2.cpp
+  Generating code
+  All 129 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Rain.vcxproj -> C:\Users\Marius\Documents\Programming\Github repositories\Misc-Projects\C++\Rain\Release\Rain.exe

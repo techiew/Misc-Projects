@@ -1,0 +1,12 @@
+﻿  branch.cpp
+c:\users\marius\documents\programming\visual studio 2015\projects\fractal_tree\fractal_tree\branch.cpp(88): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\marius\documents\programming\visual studio 2015\projects\fractal_tree\fractal_tree\branch.cpp(91): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\marius\documents\programming\visual studio 2015\projects\fractal_tree\fractal_tree\branch.cpp(98): warning C4305: 'argument': truncation from 'double' to 'float'
+c:\users\marius\documents\programming\visual studio 2015\projects\fractal_tree\fractal_tree\branch.cpp(101): warning C4305: 'argument': truncation from 'double' to 'float'
+  main.cpp
+c:\users\marius\documents\programming\visual studio 2015\projects\fractal_tree\fractal_tree\main.cpp(71): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\marius\documents\programming\visual studio 2015\projects\fractal_tree\fractal_tree\main.cpp(92): warning C4018: '<': signed/unsigned mismatch
+c:\users\marius\documents\programming\visual studio 2015\projects\fractal_tree\fractal_tree\main.cpp(116): warning C4018: '<': signed/unsigned mismatch
+  vector2.cpp
+  Generating Code...
+  Fractal_tree.vcxproj -> C:\Users\Marius\Documents\Programming\Visual Studio 2015\Projects\Fractal_tree\Debug\Fractal_tree.exe
