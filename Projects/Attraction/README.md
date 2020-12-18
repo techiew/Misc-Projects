@@ -3,4 +3,4 @@
 
 A program that simulates gravitational attraction between particles and the mouse cursor.
 
-See [this page](https://github.com/techiew/Misc-Projects/tree/master/C%2B%2B#how-to-compile) for how to compile.
+Check [this page](https://github.com/techiew/Misc-Projects/tree/master/C%2B%2B#how-to-compile) to see how to compile the project.
