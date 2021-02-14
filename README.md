@@ -1,5 +1,5 @@
 ## Misc-Projects
-Some old miscellaneous hobby projects from throughout the years.
+A compilation of some of my smaller miscellaneous hobby projects from throughout the years.
 
 Runnable .exes for each program can be found [here.](https://github.com/techiew/Misc-Projects/releases)
 
